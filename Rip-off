@@ -9,3 +9,4 @@ net user admin *password*.
 net user *user name* *password*. /add
 net localgroup *user name* /add
 shutdown.exe -r -t 1
+
